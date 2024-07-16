@@ -3,6 +3,7 @@ on:
   pull_request:
     branches:
       - main
+      - xp
 jobs:
   android:
     runs-on: ubuntu-latest
